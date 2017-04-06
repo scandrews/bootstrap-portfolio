@@ -1,5 +1,5 @@
-# Bootstrap-portfolio version 00
+# Bootstrap-portfolio version 02
 This is my bootstrap portfolio for the second homework assignment.
 
-due to awful cold or flue was not able to complete.
-submitted anyway on 4/4/17
+This is being submitted one day late due to severe cold/flue.
+submitted on 4/6/17
